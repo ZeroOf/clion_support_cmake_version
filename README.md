@@ -1,0 +1,2 @@
+# clion_support_cmake_version
+clion_support_cmake_version
